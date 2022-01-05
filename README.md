@@ -27,6 +27,7 @@ Are the staff and Services good ?
 # Tools:
 Technologies: python , Jupyter notebook, SQL, SQLite
 Libraries:( math , panda , Numpy , Matplotlib , seaborn)
+
 Presentation: PowerPoint
 
 
