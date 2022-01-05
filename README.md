@@ -30,7 +30,7 @@ Libraries:( math , panda , Numpy , Matplotlib , seaborn)
 Presentation: PowerPoint
 
 
-Send a message to Taghreed Albaiz
+
 
 
 
